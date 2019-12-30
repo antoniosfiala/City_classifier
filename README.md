@@ -1,2 +1,2 @@
-# UCL_CASA_QM_CITY-3_Images
+# UCL_CASA_QM_CITY Project
 Repository for images
