@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T21:04:21.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="y1aXAEMV8QG5pscmCO-P" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T21:05:23.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="-DDUE_nr_CNxyxQt3upR" version="12.4.7" type="github">
   <diagram id="kwPXkHKbghUOtXXnXvJa" name="Page-1">
     <mxGraphModel dx="794" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,34 +19,34 @@
         <mxCell id="mMu0tpeS2CR9rV-OwVK8-4" value="(C) Load and analyse" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-7" value="Step 0&lt;br&gt;Packages" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-7" value="&lt;b&gt;Step 0&lt;/b&gt;&lt;br&gt;Packages" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-8" value="Step 1&lt;br&gt;Local data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-8" value="&lt;b&gt;Step 1&lt;/b&gt;&lt;br&gt;Local data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-9" value="Step 2&lt;br&gt;API data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-9" value="&lt;b&gt;Step 2&lt;/b&gt;&lt;br&gt;API data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-10" value="Step 4&lt;br&gt;Drop nan &amp;amp; filter year" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-10" value="&lt;b&gt;Step 4&lt;/b&gt;&lt;br&gt;Drop nan &amp;amp; filter year" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="400" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-11" value="Step 3&lt;br&gt;Filter &amp;amp; transpose" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-11" value="&lt;b&gt;Step 3&lt;/b&gt;&lt;br&gt;Filter &amp;amp; transpose" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-12" value="Step 6&lt;br&gt;Set up clustering" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-12" value="&lt;b&gt;Step 6&lt;/b&gt;&lt;br&gt;Set up clustering" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-13" value="Step 7&lt;br&gt;Dendro-&lt;br&gt;grams" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-13" value="&lt;b&gt;Step 7&lt;/b&gt;&lt;br&gt;Dendro-&lt;br&gt;grams" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-14" value="Step 5&lt;br&gt;Summary&lt;br&gt;statistics" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-14" value="&lt;b&gt;Step 5&lt;/b&gt;&lt;br&gt;Summary&lt;br&gt;statistics" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-17" value="Step 8&lt;br&gt;Cluster&amp;nbsp;&lt;br&gt;testing" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-17" value="&lt;b&gt;Step 8&lt;/b&gt;&lt;br&gt;Cluster&amp;nbsp;&lt;br&gt;testing" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="440" y="130" width="40" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="mMu0tpeS2CR9rV-OwVK8-18" value="Step 9&lt;br&gt;Clustering&lt;br&gt;&amp;nbsp;&amp;amp; vis." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+        <mxCell id="mMu0tpeS2CR9rV-OwVK8-18" value="&lt;b&gt;Step 9&lt;/b&gt;&lt;br&gt;Clustering&lt;br&gt;&amp;nbsp;&amp;amp; vis." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="480" y="130" width="40" height="30" as="geometry"/>
         </mxCell>
       </root>
