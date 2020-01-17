@@ -5,4 +5,4 @@ Jupyter notebook is [here](https://github.com/antoniosfiala/UCL_CASA_QM_CITY/blo
 
 Accompanying essay is here(to be added)
 
-![Process for code ](UCL_CASA_QM_CITY/3_Images/QM_Flow.png)
+![Process for code ](/UCL_CASA_QM_CITY/3_Images/QM_Flow.png)
